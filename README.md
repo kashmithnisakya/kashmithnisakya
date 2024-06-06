@@ -29,10 +29,9 @@ I'm a fourth-year undergraduate student in Electrical Engineering at the Univers
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashmithnisakya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kashmithnisakya" />
 <img src="https://github-readme-stats.vercel.app/api?username=kashmithnisakya&show_icons=true&locale=en&theme=tokyonight" alt="kashmithnisakya" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashmithnisakya&&theme=tokyonight" alt="kashmithnisakya" />
 
 ## 📈 GitHub Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashmithnisakya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashmithnisakya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kashmithnisakya" />
