@@ -26,6 +26,7 @@ I'm a fourth-year undergraduate student in Electrical Engineering at the Univers
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kashmith-nisakya)
+- [Portfolio](https://kashmithnisakya.github.io/kashmith-portfolio/)
 
 ## 📊 GitHub Stats
 
