@@ -4,7 +4,7 @@ I'm a fourth-year undergraduate student in Electrical Engineering at the Univers
 
 ## 🚀 About Me
 
-- 🔭 I'm currently focusing on AI, Data Science, Robotics, Electronic Design Automation, and Battery Management Systems.
+- 🔭 I'm currently focusing on AI, Data Science, Robotics and Electronic Design Automation.
 - 🎓 I'm in my fourth year at the University of Moratuwa, pursuing a degree in Electrical Engineering.
 - 🌱 I'm dedicated to hands-on learning and always seeking diverse experiences for professional growth.
 - 💡 I'm enthusiastic about applying theoretical knowledge to real-world projects.
