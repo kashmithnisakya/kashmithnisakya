@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kashmith,
 
-I'm a fourth-year undergraduate student in Electrical Engineering at the University of Moratuwa, passionate about AI, Data Science, Robotics and Electronic Design Automation.
+### I'm a machine learning engineer at Jaseci Labs, and I graduated as an electrical engineer from the University of Moratuwa. I'm passionate about AI, Data Science, Robotics, and Electronic Design Automation.
 
 ## 🚀 About Me
 
