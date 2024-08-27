@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kashmith,
 
-I'm a fourth-year undergraduate student in Electrical Engineering at the University of Moratuwa, passionate about AI, Data Science, Robotics, Electronic Design Automation, and Battery Management Systems.
+I'm a fourth-year undergraduate student in Electrical Engineering at the University of Moratuwa, passionate about AI, Data Science, Robotics and Electronic Design Automation.
 
 ## 🚀 About Me
 
@@ -16,7 +16,6 @@ I'm a fourth-year undergraduate student in Electrical Engineering at the Univers
 - Robotics: ROS (Robot Operating System), Kinematics, Dynamics
 - Electronics: Circuit Design, PCB Layout, Electronic Design Automation (EDA)
 - Data Science: Data Analysis, Visualization, Machine Learning Algorithms
-- Battery Management Systems: Energy Storage, Charging, Discharging
 
 ## 📚 Education
 
