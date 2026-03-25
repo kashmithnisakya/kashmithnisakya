@@ -15,6 +15,7 @@ Software engineer at Jaseci Labs. I build production-ready ML systems end-to-end
 
 ## Projects
 
+- [Jaseci](https://github.com/jaseci-labs/jaseci) - Core contributor to jac-scale (server-side infrastructure) and jaclang (core language development)
 - [Tobu](https://github.com/kashmithnisakya/tobu) - Social media platform with integrated LLMs
 - [Deep Research Assistant](https://github.com/kashmithnisakya/deep-research-assistant) - Agentic AI app with LangGraph
 - [Einstein Pro](https://github.com/kashmithnisakya/einstein-pro) - AI-powered patent generation platform
