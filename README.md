@@ -15,11 +15,13 @@ Software engineer at Jaseci Labs. I build production-ready ML systems end-to-end
 
 ## Projects
 
-- [Jaseci](https://github.com/jaseci-labs/jaseci) - Core contributor to jac-scale (server-side infrastructure) and jaclang (core language development)
-- [Tobu](https://github.com/kashmithnisakya/tobu) - Social media platform with integrated LLMs
-- [Deep Research Assistant](https://github.com/kashmithnisakya/deep-research-assistant) - Agentic AI app with LangGraph
-- [Einstein Pro](https://github.com/kashmithnisakya/einstein-pro) - AI-powered patent generation platform
-- [CashTrack](https://github.com/kashmithnisakya/cashtrack) - Smart expense tracking with React and Jaseci
+- [Jaseci](https://github.com/jaseci-labs/jaseci) - Core contributor (30+ merged PRs) to jac-scale, the plugin that scales local Jac code to Kubernetes production, and jaclang, an AI-native programming language
+- [JacHammer](https://jachammer.ai/) - Backend developer on an agentic AI platform that generates and deploys full-stack jaclang applications end-to-end
+- Tobu Lite - Image-to-video generation for the Tobu platform, integrating Google's Veo 3 model with selectable templates
+- [Deep Research Assistant](https://github.com/kashmithnisakya/Deep-Research-Assistan) - Production-grade agentic app for analytical question answering using LangGraph, web search, and Chroma vector retrieval
+- Einstein Pro - AI patent generation and document management platform with a RAG-based chatbot over a vector database
+- [FriendZone](https://github.com/kashmithnisakya/FriendZone) - AI-powered memory sharing platform with automatic image analysis, built on jaclang and jac-cloud
+- [Self-Adaptive NILM](https://github.com/kashmithnisakya/Self_Adaptive_NILM_Web) - WaveNet/CNN models for appliance-level power prediction, published at IEEE World AI IoT Congress 2024
 
 ---
 
@@ -57,8 +59,8 @@ Software engineer at Jaseci Labs. I build production-ready ML systems end-to-end
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashmithnisakya&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashmithnisakya&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashmithnisakya&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kashmithnisakya&hide_border=true)
 
 </div>
