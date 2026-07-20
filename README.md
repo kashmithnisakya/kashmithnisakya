@@ -1,15 +1,18 @@
 # Kashmith Samaranayaka
 
-**AI/ML Engineer | Backend Developer | DevOps Engineer**
+**Software Engineer**
 
-Software engineer at Jaseci Labs. I build production-ready ML systems end-to-end, from model development through backend services to deployment infrastructure with CI/CD and Kubernetes.
+Software Engineer with 2+ years building production AI/ML and backend systems, specializing in LLM-powered and agentic applications, MLOps pipelines, and scalable infrastructure. Open-source core contributor to the Jaseci stack, a major developer of the jac-scale Kubernetes deployment plugin and contributor to the jaclang language. Co-author of two IEEE-published papers on deep learning.
 
 ---
 
-## Currently
+## Tech Stack
 
-- Building AI-powered backend systems at Jaseci Labs
-- Exploring agentic AI and RAG architectures
+- **Languages:** Python, Go, Jac (jaclang), SQL, Bash
+- **AI/ML & GenAI:** LLMs, RAG, Agentic AI (LangGraph), Fine-tuning (Unsloth), NLP, Deep Learning
+- **ML Frameworks:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face
+- **MLOps & Infra:** Docker, Kubernetes, MLflow, Apache Airflow, CI/CD
+- **Backend & Data:** FastAPI, Jaseci, REST APIs, PySpark, Kafka, Redis Streams, Vector Databases (Chroma)
 
 ---
 
@@ -50,17 +53,6 @@ Software engineer at Jaseci Labs. I build production-ready ML systems end-to-end
 
 ## Contact
 
+- Email: [kashmithnisakya@gmail.com](mailto:kashmithnisakya@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kashmith-nisakya)
 - [Portfolio](https://kashmithnisakya.github.io/kashmith-portfolio/)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashmithnisakya&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=kashmithnisakya&hide_border=true)
-
-</div>
